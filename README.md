@@ -8,7 +8,7 @@ I share with you below some gameplay moments.
 <br/>
 You can also discover a gameplay video by clicking on this link : https://youtu.be/309fjWJsj1s  
 <br/>
-Or visit his Itch.io page : https://kayrosgames.itch.io/star-invasion  
+Or visit the Itch.io game page : https://kayrosgames.itch.io/star-invasion  
 <br/>
 Good discovery,  
 
