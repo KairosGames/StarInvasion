@@ -1,12 +1,11 @@
 # Star Invasion
 
 Dear visitor,  
-<br/>
+<br/>  
 Here are the sources of my first video game, *Star Invasion*, a 2D tank game, developed in the Lua language in imperative programming on the Love2D framework.  
-<br/>
 I share with you below some gameplay moments.  
-<br/>
 You can also discover a gameplay video by clicking on this link : https://youtu.be/309fjWJsj1s  
+Or visit his Itch.io page : https://kayrosgames.itch.io/star-invasion  
 <br/>  
 Good discovery,  
 
