@@ -13,4 +13,12 @@ Good discovery,
 
 <br/>
 
-![Star Invasion](https://img.itch.zone/aW1hZ2UvMTQxODY3MS84MjkyMjE2LmdpZg==/original/KtBh%2FX.gif)
+![Menu](https://img.itch.zone/aW1hZ2UvMTQxODY3MS84MjkwOTc5LnBuZw==/original/1ydoCz.png)
+
+![Ingame1](https://img.itch.zone/aW1hZ2UvMTQxODY3MS84MjkyMjA4LmdpZg==/original/gTFPzG.gif)
+
+![Ingame2](https://img.itch.zone/aW1hZ2UvMTQxODY3MS84MjkyMjE2LmdpZg==/original/KtBh%2FX.gif)
+
+![Victory](https://img.itch.zone/aW1hZ2UvMTQxODY3MS84MjkyMjI1LnBuZw==/original/dLwVM1.png)
+
+![GameOver](https://img.itch.zone/aW1hZ2UvMTQxODY3MS84MjkyMjI3LnBuZw==/original/QD12h2.png)
